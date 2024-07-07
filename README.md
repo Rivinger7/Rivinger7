@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rivinger7@gmail.com or tudo-student@hdexpertiseltd.onmicrosoft.com**
 
-- 📄 Know about my experiences [Used to work remotely in a project to build an automatic message sending service (ZaloSNS)](Used to work remotely in a project to build an automatic message sending service (ZaloSNS))
+- 📄 Know about my experiences Used to work remotely in a project to build an automatic message sending service (ZaloSNS)
 
 - ⚡ Fun fact **EHE**
 
