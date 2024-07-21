@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **Scheduling Platform For Dental Clinics (SPDC)**
 
-- 🌱 I’m currently learning **NodeJS, ASP.NET**
+- 🌱 I’m currently learning **NodeJS, ASP.NET API**
 
-- 📫 How to reach me **rivinger7@gmail.com or tudo-student@hdexpertiseltd.onmicrosoft.com**
+- 📫 How to reach me **rivinger7@gmail.com**
 
-- 📄 Know about my experiences Used to work remotely in a project to build an automatic message sending service (ZaloSNS)
-
-- ⚡ Fun fact **EHE**
+  - ⚡ Fun fact **I Love Cat and Dog xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
