@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Đỗ Anh Tú</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">Lazy is the best passion i ever had</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivinger7&label=Profile%20views&color=0e75b6&style=flat" alt="rivinger7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rivinger7" alt="rivinger7" /></a> </p>
 
-- 🔭 I’m currently working on **Scheduling Platform For Dental Clinics (SPDC)**
+- 🔭 I’m currently working on **SpotifyPool**
 
-- 🌱 I’m currently learning **NodeJS, ASP.NET API**
+- 🌱 I’m currently learning **NodeJS, ASP.NET CORE 8&9 API**
 
 - 📫 How to reach me **rivinger7@gmail.com**
 
-  - ⚡ Fun fact **I Love Cat and Dog xD**
+  - ⚡ Fun fact **I Love Sleeping*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
