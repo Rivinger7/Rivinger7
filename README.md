@@ -2,7 +2,7 @@
 <h3 align="center">Lazy is the best passion i ever had</h3>
 
 <div align="center">
-  <img height="150" src="https://i0.wp.com/walfiegif.wordpress.com/wp-content/uploads/2023/07/out-transparent-132.gif?resize=560%2C560&ssl=1" alt="GIF" />
+  <img height="150" src="https://steamuserimages-a.akamaihd.net/ugc/2022720297663541927/6AB0A92022F069BFF2F67EA8F5EA5FAD65E75FCB/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="GIF" />
 </div>
 
 
