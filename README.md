@@ -21,8 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rivinger7&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Hehe Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Hehe Quote
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rivinger7&icon=1&color=0)](https://visitcount.itsvg.in)
