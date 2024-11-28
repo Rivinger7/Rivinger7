@@ -22,8 +22,10 @@
 </div>
 
 ### ✍️ Random Hehe Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-Hehe Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rivinger7&icon=1&color=0)](https://visitcount.itsvg.in)
